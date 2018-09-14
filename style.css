@@ -27,7 +27,7 @@ img {z-index: 1}
 .col-md-6 {  flex-basis: 50%;}
 
 
-#subscribe {background: white;margin-right: 0px;width: 100%;padding: 32px}
+#subscribe {background: white;margin-right: 0px;width: 100%;padding: 0px}
 #subscribe h1 {font-size: 44px;font-weight: bolder;padding-bottom: 8px;margin-top: 80px}
 #subscribe h2 {color : #61647E;font-size: 24px;font-weight: 150;}
 
