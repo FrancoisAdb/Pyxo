@@ -1,0 +1,58 @@
+body{background-color: white;; font-size: 16px;font-family: 'Open Sans', sans-serif;;	text-align: center;	margin: 0;    text-shadow: none;  padding: 0;}
+ 
+h1{font-family: 'Open Sans', sans-serif; ;color: black;font-size: 40px}
+ 
+h2 {font-family: 'Open Sans', sans-serif;;color: black;font-weight: lighter;font-size: 24px;text-shadow: none;}
+ 
+a {color : #61647E;text-shadow: none}
+a:hover {text-decoration: none; color : #61647E;; color: #8093F1}
+ 
+img {z-index: 1}
+ 
+#navbar{z-index: 2;; padding: 16px; text-align: right}
+.navbarlogo {margin-top: -8px;  ;z-index: 3; margin-left : 40px; vertical-align: top; float:left;}
+.list-inline{color : #61647E;margin-right: 32px; padding-top: 16px; font-weight: 150;font-size: 18px;line-height: 1.5}
+.mail{font-family: 'Open Sans', sans-serif;color : #61647E;}
+.mail:hover {text-decoration: none; color : #9396B2;transition: all 0.2s linear}
+.link{font-family: 'Open Sans', sans-serif;color : #61647E;}
+.link:hover {text-decoration: none; color : #9396B2;transition: all 0.2s linear}
+
+
+#head{text-align: center;padding: 64px;;color: white;background-image: url("image/restaurants/image_de_fond_restaurants.png");background-repeat: no-repeat;background-size: cover;}
+#head h1{font-size: 64px;margin-top: 64px;font-weight: normal;}
+#head h2{font-size: 36px;padding-bottom: 250px;font-weight:lighter;}
+
+
+#type_1{background : white;;}
+#type_1 h1{font-size: 32px;font-weight: bolder;}
+#type_1 h2{color : #61647E;font-size: 28px;font-weight: 150;}
+
+#type_2{background : #D4DCFA;}
+#type_2 h1{font-size: 32px;font-weight: bolder;padding-bottom: 8px;}
+#type_2 h2{color : #61647E;font-size: 28px;font-weight: 150;}
+
+
+.box{;padding: 32px; ;text-align: left;width:100%;vertical-align: middle;}
+.col-xs-12 {  flex-basis: 50%;}
+.col-sm-6 {  flex-basis: 50%;}
+.col-md-6 {  flex-basis: 50%;}
+
+
+#subscribe {background: white;;padding: 32px}
+#subscribe h1{font-size: 32px; text-align: left;padding-left: 32px;margin-bottom: 64px}
+
+
+
+
+
+#footer{margin-bottom: 32px;text-align: right}
+.bottom_logo {;z-index: 3; margin-left : 40px; vertical-align: top; float:left;}
+.social{font-family: 'Open Sans', sans-serif;color : #61647E;font-size: 16px}
+.footnote{font-family: 'Open Sans', sans-serif;color : #61647E;font-size: 16px}
+
+.social:hover {text-decoration: none; color : #9396B2;transition: all 0.2s linear}
+.footnote:hover {text-decoration: none; color : #9396B2;transition: all 0.2s linear}
+
+
+
+

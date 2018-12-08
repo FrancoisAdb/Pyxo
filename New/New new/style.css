@@ -1,0 +1,62 @@
+html {
+ background-color: red
+ margin: 0px;
+padding: 0px;}
+
+body {margin-bottom: 0px; }
+
+
+#navbar{z-index: 2;background : white;text-align: right;margin-top: 16px;margin-right: 40px;}
+.navbarlogo {  ;z-index: 3; margin-left : 40px; vertical-align: top; float:left;}
+.mail{font-family: 'Montserrat';color : #61647E;font-size: 24px;font-weight: 100;}
+.mail:hover{color : black;text-decoration: none;font-weight: 100}
+
+
+#column-wrap {
+    overflow: hidden;margin-top: 100px; margin: 32px
+}
+
+
+#column-wrap h1 {;font-size: 40px;;padding-bottom: 8px;margin-top: 16px;font-weight: 300}
+#column-wrap h2 {color : #61647E;font-size: 28px;font-weight: 100;padding-bottom: 120px }
+#column-wrap h3 {color : black;font-size: 32px;font-weight: 900; }
+#column-wrap h4 {color : #61647E;font-size: 16px;font-weight: 100; }
+
+ 
+.main-left-col {font-family: 'Montserrat'
+    background:white;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+ 
+.main-right-col {
+    background-image: url("image/landing.png");    background-repeat: no-repeat;
+    background-size: auto;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+
+
+a {color : #61647E;text-shadow: none}
+a:hover {text-decoration: none; color : #61647E;; color: #8093F1}
+
+.list-inline{color : #61647E;; padding-top: 16px; padding-right: 32px;padding-bottom: 16px;font-weight: 150;font-size: 18px;line-height: 1.5; text-align: right}
+
+
+#cookies {margin: 64px;;;padding: 64px;text-align: left;color : #61647E;font-size: 20px;font-weight: 150;}
+#cookies h1 {color : black; font-size: 32px;font-weight: bolder;padding-bottom: 8px;margin-top: 80px}
+#cookies h2 {color : #61647E;font-size: 20px;font-weight: 150;}
+
+
+
+#footer{background-image: url("image/wood.png");background-repeat: no-repeat;background-size: cover;;margin-top: 24px;text-align: right;}
+#footer h1{color : #61647E;margin-bottom: 0px; font-size: 16px}
+
+.copyright {z-index: 3; margin-left : 40px;  float:left;}
+
+.social{color : #61647E;font-size: 16px}
+.footnote{color : #61647E;font-size: 16px}
+.social:hover {text-decoration: none; color : #9396B2;transition: all 0.2s linear}
+.footnote:hover {text-decoration: none; color : #9396B2;transition: all 0.2s linear}
+

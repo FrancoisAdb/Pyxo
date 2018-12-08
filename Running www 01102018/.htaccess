@@ -1,0 +1,14 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.pyxo.fr/$1 [R=301,L]
+
+
+ServerSignature Off
+
+AddDefaultCharset UTF-8
+
+<Files ~ "^.*\.([Hh][Tt][AaPp])">
+order allow,deny
+deny from all
+satisfy all
+</Files>
